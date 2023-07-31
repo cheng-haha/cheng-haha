@@ -1,4 +1,5 @@
-### Hi, I'm cheng-haha. 👋
+<h1 align="center">Hi 👋, I'm cheng-haha</h1>
+<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
 
 - 📫 How to reach me:
   * E-mail: 211843002@njnu.edu.cn
