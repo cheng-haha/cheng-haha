@@ -3,7 +3,7 @@
 - 📫 How to reach me:
   * E-mail: 211843002@njnu.edu.cn
   * WeChat: 18656492025
-  * homepage: [here](https://cheng-haha.github.io/)
+  * homepage: [cheng-haha](https://cheng-haha.github.io/)
 - 💬 Ask me about: details in my papers, deep learning, human activity recogntion.
 
   
